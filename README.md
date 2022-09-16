@@ -1,4 +1,4 @@
-# pixa
+# product store
 
 A new Flutter project.
 
